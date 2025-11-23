@@ -459,9 +459,8 @@ const Footer = ({ setActivePage }: NavProps) => {
           <div>
             <h4 className="font-header font-bold text-sm text-gray-200 uppercase tracking-widest mb-4">Locations</h4>
             <ul className="space-y-2 font-body text-gray-400 text-sm">
-              <li>Singapore (HQ)</li>
-              <li>Hong Kong</li>
-              <li>Shanghai</li>
+              <li>Singapore</li>
+              <li>Seoul</li>
             </ul>
           </div>
         </div>
